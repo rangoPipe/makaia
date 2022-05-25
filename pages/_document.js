@@ -12,6 +12,7 @@ class MyDocument extends Document {
           />
         </Head>
         <body>
+          probando farango
           <Main />
           <NextScript />
         </body>
